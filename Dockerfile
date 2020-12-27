@@ -4,4 +4,4 @@ COPY . .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-CMD [ "python", "scrapescenes.py" ]
+CMD [ "python", "scrapeScenes.py" ]
