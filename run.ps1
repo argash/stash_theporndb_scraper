@@ -1,4 +1,4 @@
-docker build . -t sraper:1.0
+docker build . -t scraper:1.0
 
 docker run -it --name scraper scraper:1.0
 
